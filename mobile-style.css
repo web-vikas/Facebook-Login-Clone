@@ -1,0 +1,12 @@
+@media screen and (max-width:900px){
+    .main{
+        display: flex;
+        flex-direction:column;
+    }
+    .logo p{
+        max-width:350px;
+    }
+    .logo{
+        padding: 10px 0px;
+    }
+}
